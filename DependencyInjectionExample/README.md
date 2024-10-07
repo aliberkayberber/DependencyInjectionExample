@@ -1,0 +1,1 @@
+### Dependency Injection ile bir classRoom clasýnýn bir diðer class olan Teacher class dan ihtiyaç duyduðu methodu kullandýk.
